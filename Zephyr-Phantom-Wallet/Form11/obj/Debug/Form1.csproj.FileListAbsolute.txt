@@ -1,0 +1,2 @@
+D:\GithubNew\2\phantom3\Phantom3\Zephyr-Phantom-Wallet\Form11\obj\Debug\Form1.csproj.AssemblyReference.cache
+D:\GithubNew\2\phantom3\Phantom3\Zephyr-Phantom-Wallet\Form11\obj\Debug\Form1.csproj.CoreCompileInputs.cache
